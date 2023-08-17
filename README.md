@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Webpack 기본 템플릿
 
 **webpack**: 모듈(패키지) 번들러의 핵심 패키지<br>
@@ -28,7 +27,3 @@
 - `package.json` 옵션으로 `browserslist` 추가!<br>
 - `.postcssrc.js` 생성(PostCSS 구성 옵션)!<br>
 - `.babelrc.js` 생성(Babel 구성 옵션)!<br>
-=======
-# vue3-webpack-template
-vue3-webpack-template
->>>>>>> 0000c34967b253f6e8416520b29d50283cb341b8
